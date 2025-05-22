@@ -43,4 +43,5 @@ El análisis temporal indica que **diciembre** es el mes con mayor cantidad de u
 2. Abrí el archivo `dashboard.pbix` con Power BI Desktop.
 3. Explorá los gráficos y filtros para interactuar con los datos.
 
+> Este proyecto fue realizado con fines educativos, aplicando conceptos de visualización de datos, diseño de dashboards y análisis de negocio en Power BI.
 
